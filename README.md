@@ -8,7 +8,6 @@ A responsive, production-ready frontend webpage built with semantic HTML5 and va
 
 - **HTML5:** Semantic markup with proper document structure (`<nav>`, `<header>`, `<main>`, `<section>`)
 - **CSS3:** Modern layout techniques including Flexbox for navigation and CSS Grid for gallery layout
-- **Vanilla JavaScript:** Lightweight (minimal footprint) implementation for interactive menu toggle functionality
 
 ## Key Features
 
@@ -68,7 +67,7 @@ simplotel-frontend-assignment/
 - **Semantic HTML:** Proper use of semantic tags for better accessibility and SEO
 - **Mobile-First Approach:** CSS written for mobile, enhanced for larger screens
 - **Maintainable CSS:** Organized stylesheet with clear sections and comments
-- **No Dependencies:** Pure vanilla HTML/CSS/JavaScript—lightweight and fast
+- **No Dependencies:** Pure vanilla HTML/CSS and fast
 
 ### Performance Considerations
 - Minimal JavaScript for fast load times and reduced dependencies
@@ -92,7 +91,6 @@ simplotel-frontend-assignment/
 
 ### Architecture
 - **Plain CSS Approach:** Avoided pre-processors (SASS/LESS) to maintain simplicity and follow vanilla CSS best practices
-- **Vanilla JavaScript:** Minimal, efficient code for menu toggle—no jQuery or frameworks
 - **Semantic Markup:** Proper HTML structure for accessibility and SEO benefits
 
 ### Implementation Details
@@ -100,13 +98,6 @@ simplotel-frontend-assignment/
 - Mobile hamburger menu implemented with pure CSS toggle and JavaScript event handling
 - Flexible, maintainable class naming conventions for scalability
 
-## Future Enhancement Opportunities
-
-- CSS Custom Properties (CSS Variables) for theme customization
-- Progressive enhancement with lazy loading for images
-- Animation transitions for improved user experience
-- Dark mode implementation
-- Accessibility enhancements (WCAG 2.1 AA compliance audit)
 
 ## Verification & Testing
 
