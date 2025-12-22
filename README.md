@@ -119,7 +119,7 @@ The project has been tested and verified to:
 ## Author
 
 **Abhinav Narahari**  
-NMIMS Placement Assignment
+BTech Final Year, Nmims
 
 ## License
 
