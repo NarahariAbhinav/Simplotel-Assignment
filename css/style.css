@@ -342,25 +342,12 @@ img {
     padding: 2rem 3%;
   }
 
-  /* Force left alignment on mobile */
   .info-card {
     text-align: left;
   }
 
   .btn-text {
     justify-content: flex-start;
-  }
-}
-
-/* Extra Small Devices - 360px */
-@media (max-width: 360px) {
-  html {
-    font-size: 13px;
-  }
-
-  .hero-text-container,
-  .info-card {
-    padding: 1.5rem 1rem;
   }
 }
 
