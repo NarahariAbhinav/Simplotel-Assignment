@@ -69,12 +69,6 @@ simplotel-frontend-assignment/
 - **Maintainable CSS:** Organized stylesheet with clear sections and comments
 - **No Dependencies:** Pure vanilla HTML/CSS and fast
 
-### Performance Considerations
-- Minimal JavaScript for fast load times and reduced dependencies
-- Optimized image handling with `object-fit` property
-- Efficient CSS selectors and layout optimization
-- No external frameworks or libraries
-
 ### Responsive Breakpoints
 - **Mobile:** < 768px
 - **Tablet:** 768px - 1024px  
@@ -86,17 +80,6 @@ simplotel-frontend-assignment/
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
-
-## Design Decisions
-
-### Architecture
-- **Plain CSS Approach:** Avoided pre-processors (SASS/LESS) to maintain simplicity and follow vanilla CSS best practices
-- **Semantic Markup:** Proper HTML structure for accessibility and SEO benefits
-
-### Implementation Details
-- Image aspect ratios maintained using CSS Grid and `object-fit` properties
-- Mobile hamburger menu implemented with pure CSS toggle and JavaScript event handling
-- Flexible, maintainable class naming conventions for scalability
 
 
 ## Verification & Testing
